@@ -7,9 +7,6 @@ def majuscule(mot):
         lettre = chr(ord(lettre)-32)
     resultat += lettre
 return resultat
-        
-
-
 if __name__ == '__main__':
     mots = [
         'riz',
